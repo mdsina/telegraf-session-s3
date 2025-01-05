@@ -5,7 +5,7 @@ AWS S3 powered session middleware for [Telegraf](https://github.com/telegraf/tel
 ## Prerequisites
 
 1. You have made your AWS access and secret key available through a provided method, like storing them in the ~/.aws/credentials file or export them into environment variables
-2. You need to install Node.js  with a minimum version of 8.9.0 
+2. You need to install Node.js  with a minimum version of 14
 
 ## Installation
 
